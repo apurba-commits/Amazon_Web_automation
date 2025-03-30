@@ -1,0 +1,5 @@
+2025-03-31 00:14:49,606 - INFO - Starting the browser setup...
+2025-03-31 00:14:53,884 - INFO - Navigating to Google homepage
+2025-03-31 00:14:58,225 - INFO - Starting test: Verifying Google homepage title.
+2025-03-31 00:14:58,233 - INFO - Google homepage opened successfully and the title contains 'Google'.
+2025-03-31 00:15:01,159 - INFO - Browser closed after the test.
